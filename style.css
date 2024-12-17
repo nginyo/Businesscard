@@ -1,0 +1,25 @@
+.body {
+  width: 400px;
+}
+.card {
+  width: 500px;
+  margin: 0 auto;
+  display: flex;
+  background-color: rgb(211, 144, 19);
+  justify-content: space-around;
+  text-align: center;
+  padding: 15px;
+  border-bottom: 5px solid rgb(128, 100, 51);
+}
+.img-el {
+  width: 200px;
+  border-radius: 100%;
+}
+p {
+  font-size: large;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-style: oblique;
+}
+h3 {
+  font-style: italic;
+}
