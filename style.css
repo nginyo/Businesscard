@@ -5,15 +5,16 @@
   width: 500px;
   margin: 0 auto;
   display: flex;
-  background-color: rgb(211, 144, 19);
+  background-color: #ff8901;
   justify-content: space-around;
   text-align: center;
   padding: 15px;
-  border-bottom: 5px solid rgb(128, 100, 51);
+  border-bottom: 5px solid #0d1b2a;
 }
 .img-el {
   width: 200px;
   border-radius: 100%;
+  border: 1px solid #fca311;
 }
 p {
   font-size: large;
